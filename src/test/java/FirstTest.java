@@ -9,4 +9,7 @@ public class FirstTest {
     public void secondMethod(){
     }
 
+    public void createUser(){
+
+    }
 }
