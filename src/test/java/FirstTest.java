@@ -6,5 +6,8 @@ public class FirstTest {
     public void firstMethod(){
 
     }
+    public void secondMethod(){
+
+    }
 
 }
