@@ -12,4 +12,7 @@ public class FirstTest {
     public void createUser(){
 
     }
+    public void updateUser(){
+
+    }
 }
