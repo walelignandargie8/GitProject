@@ -1,3 +1,0 @@
-This is test file
-Modifiying the file
-Modification after pushing
